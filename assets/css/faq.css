@@ -147,6 +147,8 @@ nav {
     transition: all var(--transition-base);
 }
 
+
+
 /*footer section*/
 footer {
     background-color: var(--dark-color);
