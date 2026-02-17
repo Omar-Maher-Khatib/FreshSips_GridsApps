@@ -188,7 +188,6 @@ nav {
     display: flex;
     justify-content: center;
     align-items: center;
-    animation: fadeIn 1.5s ease;
 }
 
 .hero-drink-img {
@@ -198,7 +197,6 @@ nav {
     object-fit: cover;
     box-shadow: var(--shadow-xl);
     border: 8px solid var(--white);
-    animation: float 3s ease-in-out infinite;
 }
 
 .hero-placeholder svg {
